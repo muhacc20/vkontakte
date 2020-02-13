@@ -1,5 +1,4 @@
 import React from 'react'
-import Comment from '../Comment/Comment'
 import { COMMENT_LIKE, COMMENT_REMOVE } from '../../actions/actionTypes'
 
 export default function Comments({ comments, dispatch }) {

@@ -1,7 +1,6 @@
 import React from 'react'
 import Comments from '../Comments/Comments'
 import CommentAddForm from '../CommentAddForm/CommentAddForm'
-import PostAddForm from '../PostAddFrom/PostAddForm'
 import { POST_LIKE, POST_REMOVE } from '../../actions/actionTypes'
 
 
